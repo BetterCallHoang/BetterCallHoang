@@ -1,4 +1,6 @@
-Hi everyone, my name is **Viet-Hoang Nguyen**, better call me Hoang😸
+Hi everyone, my name is **Viet-Hoang Nguyen**, a handsome man who loves learning new things and creating interesting and useful stuffs.
+
+
 ## 👋 About Me   
 🎓 **Currently:**  
 - As of the time I'm writing this introduction (by the end of February-2025), I'm currently a **4-year student** majoring in *Automation and Control Engineering* at Hanoi University of Science and Technology ([HUST](https://hust.edu.vn/)) and I'm doing on my graduation project.
@@ -7,17 +9,17 @@ Hi everyone, my name is **Viet-Hoang Nguyen**, better call me Hoang😸
 ---
 
 ⚡ **Interests:**  
-- Embedded systems & firmware development  
-- Control techniques & automation  
-- Power electronics & renewable energy
+- Embedded systems & firmware development: had experiences in design and implement motor control system, on-board battery charger.  
+- Control techniques & automation: PID controller fan😂. 
+- Power electronics & renewable energy: DC/AC and DC/DC.
 
 ---
 
 🤖 **Experiences:**
-- Embedded C  
-- Matlab
-- Python
-- Kicad
+- C: I use C mostly for embedded programming on MCUs from companies like TI, ST, Toshiba, etc.   
+- Matlab: I use Matlab to calculate and process the datas. 
+- Python: The same with Matlab but more flexible😁
+- Kicad: Use to make my custom boards, and I'm still learning it. 
 ---
 
 🎯 **Goals:**  
