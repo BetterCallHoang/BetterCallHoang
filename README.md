@@ -1,4 +1,4 @@
-Hi everyone, my name is **Viet-Hoang Nguyen**, a handsome man who loves learning new things and creating interesting and useful stuffs.
+Hi everyone, my name is **Viet-Hoang Nguyen**, a young man who loves learning new things and creating interesting and useful stuffs.
 
 
 ## 👋 About Me   
