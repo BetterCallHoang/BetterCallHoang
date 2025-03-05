@@ -10,7 +10,7 @@ Hi everyone, my name is **Viet-Hoang Nguyen**, a young man who loves learning ne
 
 ⚡ **Interests:**  
 - Embedded systems & firmware development: had experiences in design and implement motor control system, on-board battery charger.  
-- Control techniques & automation: PID controller fan😂. 
+- Control techniques & automation: PID controller fan boy👍. 
 - Power electronics & renewable energy: DC/AC and DC/DC.
 
 ---
