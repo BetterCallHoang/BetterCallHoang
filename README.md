@@ -1,4 +1,4 @@
-Hi everyone, my name is **Viet-Hoang Nguyen**, a young man who loves learning new things and creating interesting and useful stuffs.
+Hi everyone, my name is **Viet-Hoang Nguyen**, a guy who loves learning new things and creating interesting and useful stuff.
 
 
 ## 👋 About Me   
@@ -9,16 +9,16 @@ Hi everyone, my name is **Viet-Hoang Nguyen**, a young man who loves learning ne
 ---
 
 ⚡ **Interests:**  
-- Embedded systems & firmware development: had experiences in design and implement motor control system, on-board battery charger.  
-- Control techniques & automation: PID controller fan boy👍. 
-- Power electronics & renewable energy: DC/AC and DC/DC.
+- Embedded systems & firmware development 
+- Control techniques & automation
+- Power electronics & renewable energy
 
 ---
 
 🤖 **Experiences:**
 - C: I use C mostly for embedded programming on MCUs from companies like TI, ST, Toshiba, etc.   
 - Matlab: I use Matlab to calculate and process the datas. 
-- Python: The same with Matlab but more flexible😁
+- Python: I use Python for make automation tools.
 - Kicad: Use to make my custom boards, and I'm still learning it. 
 ---
 
